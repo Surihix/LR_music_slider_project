@@ -1,0 +1,75 @@
+('S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI app\\LR '
+ 'music slider_project folder (main)\\build\\LR Music Volume slider\\LR Music '
+ 'Volume slider.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder (main)\\build\\LR Music Volume '
+   'slider\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\JAYARAMAKRISHNAN\\AppData\\Local\\Programs\\Python\\Python310-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   's:\\modding projects\\lr\\music_volume mod\\lr music vol slider_gui '
+   'app\\lr music slider_project folder '
+   '(main)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   's:\\modding projects\\lr\\music_volume mod\\lr music vol slider_gui '
+   'app\\lr music slider_project folder '
+   '(main)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   's:\\modding projects\\lr\\music_volume mod\\lr music vol slider_gui '
+   'app\\lr music slider_project folder '
+   '(main)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   's:\\modding projects\\lr\\music_volume mod\\lr music vol slider_gui '
+   'app\\lr music slider_project folder '
+   '(main)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   's:\\modding projects\\lr\\music_volume mod\\lr music vol slider_gui '
+   'app\\lr music slider_project folder '
+   '(main)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder '
+   '(main)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder '
+   '(main)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder '
+   '(main)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder '
+   '(main)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('LR_music_slider',
+   'S:\\Modding projects\\LR\\music_volume mod\\LR music vol slider_GUI '
+   'app\\LR music slider_project folder (main)\\LR_music_slider.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
