@@ -1,4 +1,4 @@
-# LR_music_slider_app (code only)
+# LR Music Slider (code only)
 
 
 
