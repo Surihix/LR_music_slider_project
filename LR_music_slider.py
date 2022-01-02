@@ -23,7 +23,7 @@ def resource_path(relative_path):
 
 # Section defining the window size, color, icon and display image
 LR_vol_root = Tk()
-LR_vol_root.title("LIGHTNING RETURNS : FINAL FANTASY XIII - Music Volume Slider  v1.2")
+LR_vol_root.title("LIGHTNING RETURNS : FINAL FANTASY XIII - Music Volume Slider  v1.3")
 LR_vol_root.configure(background="#494a4c")
 LR_vol_root.iconbitmap(resource_path("image_files/app_icon_title-bar.ico"))
 LR_vol_root.geometry("620x830")
@@ -141,7 +141,7 @@ set_volume.pack()
 
 
 # Section defining the status bar and its attributes
-status_bar = Label(tabs, text="Welcome to LR Music Volume Slider v1.2 ", background="#494a4c", takefocus=0,
+status_bar = Label(tabs, text="Welcome to LR Music Volume Slider v1.3 ", background="#494a4c", takefocus=0,
                    font=text_size_large, fg="white", relief=SUNKEN, anchor=W)
 status_bar.pack(side=BOTTOM, fill=X)
 
@@ -155,13 +155,13 @@ credit_text.pack()
 
 frame_cr_sub = tkinter.Frame(tab_b)
 frame_cr_sub.pack(padx=0, pady=20, fill="both")
-credit_text1 = Label(frame_cr_sub, text="Surihix  -  Programmer of this app", font=credit_text_size,
+credit_text1 = Label(frame_cr_sub, text="Surihix  -  Programmer and creator of this app", font=credit_text_size,
                      fg="white", background="#494a4c")
 credit_text1.pack(fill="both")
-credit_text2 = Label(frame_cr_sub, text="Kirsan Thyme  -  for Nova Chrysalia's WDB repack feature",
+credit_text2 = Label(frame_cr_sub, text="Kirsan Thyme  -  for Nova Chrysalia's WDB repack function",
                      font=credit_text_size, fg="white", background="#494a4c")
 credit_text2.pack(fill="both")
-credit_text3 = Label(frame_cr_sub, text="GreenThumbs2  -  for the FFXIIIGetPathTool",
+credit_text3 = Label(frame_cr_sub, text="GreenThumbs2  -  for the FFXIIIGetPathTool and the WPDPack tool",
                      font=credit_text_size, fg="white", background="#494a4c")
 credit_text3.pack(fill="both")
 
