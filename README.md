@@ -2,7 +2,7 @@
 
 
 
-This is an small GUI app that helps in control the music volume of LIGHTNING RETURNS FINAL FANTASY XIII steam version.
+This is an small GUI app that helps in controlling the music volume of LIGHTNING RETURNS FINAL FANTASY XIII steam version.
 
 You can download already compiled builds of this app from the releases page and that would include everything neccessary for this app to work for your game.
 
