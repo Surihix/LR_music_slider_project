@@ -10,9 +10,9 @@ I used pycharm as my code editor and the .py file can be opened in your desired 
 
 Make sure to install the neccessary python packages into your editor and you can then compile it to a exe file with pyinstaller. 
 
-You can download compiled builds of this app from my mod page on nexus which is linked below. that includes everything neccessary for your compiled version of this app to work with your game.
+You can download compiled builds of this app from my mod page on nexus which is linked below. that includes the batch_scripts folder which is neccessary for your compiled version of this app to work with your game.
 
-Mod page Link:
+Nexus mod page Link:
 https://www.nexusmods.com/lightningreturnsfinalfantasy13/mods/8
 
 
