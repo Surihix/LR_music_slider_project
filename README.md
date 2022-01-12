@@ -6,7 +6,7 @@ This is an small python GUI app that helps in controlling the music volume of LI
 
 This repo only has the project code and I have not included the batch scripts and the modified game files which are neccessary for setting the music volume of the game.
 
-I used pycharm as my code editor and the .py file can be opened in your desired python code editor with which you can edit the code and make your version of this app if you want to.
+I used pycharm as my code editor and the .py file can be opened in your desired python code editor with which you can edit the code and make your version of this app.
 Make sure to install the neccessary python packages into your editor and you can then compile it to a exe file with pyinstaller. 
 
 Crediting is important as well so be sure to credit the neccessary people who were behind the tools in your compiled version of the app.
